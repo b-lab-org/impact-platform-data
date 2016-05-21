@@ -14,7 +14,7 @@ This is a data-only container used across the Impact Platform.
 * `/data/config`
   * Hold configuration data for other services.
   * `/ssl`
-    * certificates and keys for [nginx](https://github.com/b-lab-org/impact-platform-nginx)
+    * [nginx](https://github.com/b-lab-org/impact-platform-nginx) certs and keys.
   * `/sites`
     * [nginx](https://github.com/b-lab-org/impact-platform-nginx) site(s) configuration.
 
