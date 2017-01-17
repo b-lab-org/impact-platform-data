@@ -1,4 +1,4 @@
-FROM ubuntu:15.04
+FROM alpine:3.5
 MAINTAINER "The Impact Bot" <technology@bcorporation.net>
 
 RUN mkdir -p /data
